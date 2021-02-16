@@ -1,10 +1,10 @@
-# Roomba Virtual Wall with Raspberry Pico
-This is the implementation of the Roomba Virtual Wall on Raspberry Pico using Micropython.   
+# Roomba Virtual Wall with Raspberry Pi Pico
+This is the implementation of the Roomba Virtual Wall on Raspberry Pi Pico using Micropython.   
 That was properly tested in my Roomba 690.
 
 ## Requirements
 - Micropython
-- Raspberry Pico
+- Raspberry Pi Pico
 - IR Transmitter   
   In my case, I used the one below, but it should work with others out of the box.
 
