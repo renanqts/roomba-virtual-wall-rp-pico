@@ -10,6 +10,8 @@ That was properly tested in my Roomba 690.
 
   <img src="images/ir.jpg" width="200" height="200">
 
+## Dev environment
+To setting up your environment, you case use https://github.com/cpwood/Pico-GO
 
 ## Reference
 https://sites.google.com/site/irobotcreate2/createanirbeacon
